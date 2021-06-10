@@ -1,59 +1,24 @@
-## Introduction
-
-Add project description here. What will learners be making? Broadly what skills will they be learning?
-
-### What you will make
-
---- no-print ---
-Add instructions for interacting with the embedded content here.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+<iframe src="https://scratch.mit.edu/projects/542788512/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
---- /no-print ---
+The **direction** of a sprite controls how much it is rotated. 
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+When you add a new sprite it points to the right which is a direction of 90 degrees.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+| Direction      | Degrees |
+| ----------- | ----------- |
+| Up     | 0       |
+| **Right**     | **90**       |
+| Down   | 180       |
+| Left   | -90       |
 
-+ A computer or tablet capable of running Scratch 3
+You can change the direction of a sprite in the Sprite pane. Click on the direction number and move the arrow that appears, or type a number.
 
-### Software
+![](images/sprite-direction-pane.png)
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+You can also use the `point in direction`{:class="block3motion"} block:
 
-### Downloads
+![](images/point-in-direction.png)
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+The sprite's direction is used by the `move`{:class="block3motion"} block. Changing the direction of a sprite may also change the rotation of the sprite's costume depending on the sprite's `rotation-style`{:class="block3motion"}.
