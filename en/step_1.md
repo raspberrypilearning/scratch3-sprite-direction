@@ -13,6 +13,7 @@ When you add a new sprite it points to the right which is a direction of 90 degr
 | Down   | 180       |
 | Left   | -90       |
 
+
 You can change the direction of a sprite in the Sprite pane. Click on the direction number and move the arrow that appears, or type a number.
 
 ![](images/sprite-direction-pane.png)
