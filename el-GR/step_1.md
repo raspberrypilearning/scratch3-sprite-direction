@@ -2,16 +2,16 @@
 <div class="scratch-preview">
 <iframe src="https://scratch.mit.edu/projects/542788512/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-The **direction** of a sprite controls how much it is rotated.
+Η **κατεύθυνση** ενός αντικειμένου ελέγχει πόσο περιστρέφεται.
 
-When you add a new sprite it points to the right which is a direction of 90 degrees.
+Όταν προσθέτεις ένα νέο αντικείμενο αυτό δείχνει προς τα δεξιά που είναι μια κατεύθυνση 90 μοιρών.
 
-| Direction | Degrees |
-| --------- | ------- |
-| Up        | 0       |
-| **Right** | **90**  |
-| Down      | 180     |
-| Left      | -90     |
+| Κατεύθυνση | Μοίρες |
+| ---------- | ------ |
+| Πάνω       | 0      |
+| **Δεξιά**  | **90** |
+| Κάτω       | 180    |
+| Αριστερά   | -90    |
 
 
 You can change the direction of a sprite in the Sprite pane. Click on the direction number and move the arrow that appears, or type a number.
