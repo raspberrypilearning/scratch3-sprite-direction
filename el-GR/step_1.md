@@ -14,12 +14,12 @@
 | Αριστερά   | -90    |
 
 
-You can change the direction of a sprite in the Sprite pane. Click on the direction number and move the arrow that appears, or type a number.
+Μπορείς να αλλάξεις την κατεύθυνση ενός αντικειμένου στο παράθυρο Αντικείμενο. Κάνε κλικ στον αριθμό κατεύθυνσης και μετακίνησε το βέλος που εμφανίζεται ή πληκτρολόγησε έναν αριθμό.
 
 ![](images/sprite-direction-pane.png)
 
-You can also use the `point in direction`{:class="block3motion"} block:
+Μπορείς επίσης να χρησιμοποιήσεις το μπλοκ `δείξε στην κατεύθυνση`{:class="block3motion"}:
 
 ![](images/point-in-direction.png)
 
-The sprite's direction is used by the `move`{:class="block3motion"} block. Changing the direction of a sprite may also change the rotation of the sprite's costume depending on the sprite's `rotation-style`{:class="block3motion"}.
+Η κατεύθυνση του αντικειμένου χρησιμοποιείται από το μπλοκ `κινήσου`{:class="block3motion"}. Η αλλαγή της κατεύθυνσης ενός αντικειμένου μπορεί επίσης να αλλάξει την περιστροφή της ενδυμασίας του ανάλογα με το `τρόπο περιστροφής`{:class="block3motion"}.
