@@ -2,24 +2,24 @@
 <div class="scratch-preview">
 <iframe src="https://scratch.mit.edu/projects/542788512/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-The **direction** of a sprite controls how much it is rotated.
+La **direction** d'un sprite contrôle de combien il est tourné.
 
-When you add a new sprite it points to the right which is a direction of 90 degrees.
+Lorsque tu ajoutes un nouveau sprite, il pointe vers la droite, ce qui correspond à une direction de 90 degrés.
 
-| Direction | Degrees |
-| --------- | ------- |
-| Up        | 0       |
-| **Right** | **90**  |
-| Down      | 180     |
-| Left      | -90     |
+| Direction    | Degrés |
+| ------------ | ------ |
+| En haut      | 0      |
+| **À droite** | **90** |
+| Vers le bas  | 180    |
+| À gauche     | -90    |
 
 
-You can change the direction of a sprite in the Sprite pane. Click on the direction number and move the arrow that appears, or type a number.
+Tu peux changer la direction d'un sprite dans le volet Sprite. Clique sur le nombre dans direction et déplace la flèche qui apparaît, ou tape un nombre.
 
 ![](images/sprite-direction-pane.png)
 
-You can also use the `point in direction`{:class="block3motion"} block:
+Tu peux également utiliser le bloc `s'orienter à`{:class="block3motion"} :
 
 ![](images/point-in-direction.png)
 
-The sprite's direction is used by the `move`{:class="block3motion"} block. Changing the direction of a sprite may also change the rotation of the sprite's costume depending on the sprite's `rotation-style`{:class="block3motion"}.
+La direction du sprite est utilisée par le bloc `avancer`{:class="block3motion"}. Changer la direction d'un sprite peut également changer la rotation du costume du sprite en fonction du `sens de rotation`{:class="block3motion"} du sprite.
