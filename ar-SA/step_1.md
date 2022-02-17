@@ -2,24 +2,24 @@
 <div class="scratch-preview">
 <iframe src="https://scratch.mit.edu/projects/542788512/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-The **direction** of a sprite controls how much it is rotated.
+**الاتجاه** الخاص بالكائن يتحكم في مقدار تدويره.
 
-When you add a new sprite it points to the right which is a direction of 90 degrees.
+عندما تضيف كائنًا جديدًا ، فإنه يشير إلى اليمين وهو اتجاه 90 درجة.
 
-| Direction | Degrees |
-| --------- | ------- |
-| Up        | 0       |
-| **Right** | **90**  |
-| Down      | 180     |
-| Left      | -90     |
+| اتجاه      | درجات  |
+| ---------- | ------ |
+| فوق        | 0      |
+| **اليمين** | **90** |
+| تحت        | 180    |
+| يسار       | -90    |
 
 
-You can change the direction of a sprite in the Sprite pane. Click on the direction number and move the arrow that appears, or type a number.
+يمكنك تغيير اتجاه الكائن في لوحة الكائن. انقر فوق رقم الاتجاه وحرك السهم الذي يظهر ، أو اكتب رقمًا.
 
 ![](images/sprite-direction-pane.png)
 
-You can also use the `point in direction`{:class="block3motion"} block:
+يمكنك أيضًا استخدام المقطع البرمجي `اتجه نحو الاتجاه`{:class="block3motion"}:
 
 ![](images/point-in-direction.png)
 
-The sprite's direction is used by the `move`{:class="block3motion"} block. Changing the direction of a sprite may also change the rotation of the sprite's costume depending on the sprite's `rotation-style`{:class="block3motion"}.
+يتم استخدام اتجاه الكائن بواسطة المقطع البرمجي `تحرك`{: class = "block3motion"}. قد يؤدي تغيير اتجاه الكائن أيضًا إلى تغيير دوران مظهر الكائن`نمط الدوران`{:class="block3motion"}.
