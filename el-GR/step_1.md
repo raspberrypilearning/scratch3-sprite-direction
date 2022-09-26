@@ -18,7 +18,7 @@
 
 ![](images/sprite-direction-pane.png)
 
-Μπορείς επίσης να χρησιμοποιήσεις το μπλοκ `δείξε στην κατεύθυνση`{:class="block3motion"}:
+Μπορείς επίσης να χρησιμοποιήσεις το μπλοκ `δείξε προς κατεύθυνση`{:class="block3motion"}:
 
 ![](images/point-in-direction.png)
 
