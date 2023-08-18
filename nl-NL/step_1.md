@@ -1,9 +1,7 @@
 
 <div class="scratch-preview">
-<iframe src="https://scratch.mit.edu/projects/542788512/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-De **richting** van een sprite bepaalt hoeveel deze wordt gedraaid.
-
 Wanneer je een nieuwe sprite toevoegt, wijst deze naar rechts, een richting van 90 graden.
 
 | Richting   | Graden |
