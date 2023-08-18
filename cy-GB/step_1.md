@@ -1,9 +1,7 @@
 
 <div class="scratch-preview">
-<iframe src="https://scratch.mit.edu/projects/542788512/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-Mae'r **cyfeiriad** yn rheoli faint mae'r coflun yn cylchdroi.
-
 Pan fyddi di'n ychwanegu coflun newydd bydd yn pwyntio i'r dde, sef cyfeiriad o 90 gradd.
 
 | Cyfeiriad | Graddau |
