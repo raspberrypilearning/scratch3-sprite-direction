@@ -1,9 +1,7 @@
 
 <div class="scratch-preview">
-<iframe src="https://scratch.mit.edu/projects/542788512/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-La **direction** d'un sprite contrôle de combien il est tourné.
-
 Lorsque tu ajoutes un nouveau sprite, il pointe vers la droite, ce qui correspond à une direction de 90 degrés.
 
 | Direction    | Degrés |
