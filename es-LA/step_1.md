@@ -1,9 +1,7 @@
 
 <div class="scratch-preview">
-<iframe src="https://scratch.mit.edu/projects/542788512/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-La **dirección** de un objeto controla cuánto gira.
-
 Cuando agregas un nuevo objeto, este apunta a la derecha, que es una dirección de 90 grados.
 
 | Dirección   | Grados |
@@ -22,4 +20,4 @@ También puedes utilizar el bloque `apuntar en dirección`{:class="block3motion"
 
 ![](images/point-in-direction.png)
 
-El bloque `mover` {:class="block3motion"} usa la dirección del objeto. Cambiar la dirección de un objeto también puede cambiar la rotación del disfraz del objeto dependiendo del `estilo de rotación`{:class="block3motion"}.
+El bloque `mover` {:class="block3motion"} usa la dirección del objeto. Cambiar la dirección de un objeto también puede cambiar la rotación del disfraz dependiendo del `estilo de rotación`{:class="block3motion"}.
