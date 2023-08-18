@@ -1,9 +1,7 @@
 
 <div class="scratch-preview">
-<iframe src="https://scratch.mit.edu/projects/542788512/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-Η **κατεύθυνση** ενός αντικειμένου ελέγχει πόσο περιστρέφεται.
-
 Όταν προσθέτεις ένα νέο αντικείμενο αυτό δείχνει προς τα δεξιά που είναι μια κατεύθυνση 90 μοιρών.
 
 | Κατεύθυνση | Μοίρες |
