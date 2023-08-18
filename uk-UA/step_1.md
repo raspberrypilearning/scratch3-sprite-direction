@@ -1,9 +1,7 @@
 
 <div class="scratch-preview">
-<iframe src="https://scratch.mit.edu/projects/542788512/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-**Напрям** спрайта визначає, наскільки сильно він обертається.
-
 Коли ти додаєш новий спрайт, він направлений вправо, тобто під кутом 90 градусів.
 
 | Напрям       | Градуси |
