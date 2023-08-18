@@ -1,9 +1,7 @@
 
 <div class="scratch-preview">
-<iframe src="https://scratch.mit.edu/projects/542788512/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-**الاتجاه** الخاص بالكائن يتحكم في مقدار تدويره.
-
 عندما تضيف كائنًا جديدًا ، فإنه يشير إلى اليمين وهو اتجاه 90 درجة.
 
 | اتجاه      | درجات  |
