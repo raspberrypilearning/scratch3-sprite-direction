@@ -2,22 +2,22 @@
 <div class="scratch-preview">
 <iframe src="" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-When you add a new sprite it points to the right which is a direction of 90 degrees.
+Quando você adiciona um novo ator, ele aponta para a direita, que é uma direção de 90 graus.
 
-| Direction | Degrees |
-| --------- | ------- |
-| Up        | 0       |
-| **Right** | **90**  |
-| Down      | 180     |
-| Left      | -90     |
+| Direção     | Graus  |
+| ----------- | ------ |
+| Acima       | 0      |
+| **Direita** | **90** |
+| Abaixo      | 180    |
+| Esquerda    | -90    |
 
 
-You can change the direction of a sprite in the Sprite pane. Click on the direction number and move the arrow that appears, or type a number.
+Você pode alterar a direção de um ator no painel Ator. Clique no número da direção e mova a seta que aparece ou digite um número.
 
 ![](images/sprite-direction-pane.png)
 
-You can also use the `point in direction`{:class="block3motion"} block:
+Você também pode usar o bloco `aponte para a direção` {:class="block3motion"}:
 
 ![](images/point-in-direction.png)
 
-The sprite's direction is used by the `move`{:class="block3motion"} block. Changing the direction of a sprite may also change the rotation of the sprite's costume depending on the sprite's `rotation-style`{:class="block3motion"}.
+A direção do ator é usada pelo bloco `mova`{:class="block3motion"}. Alterar a direção de um ator também pode alterar a rotação do traje do ator dependendo do `estilo de rotação`{:class="block3motion"} do ator.
