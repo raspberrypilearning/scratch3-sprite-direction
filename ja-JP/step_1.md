@@ -2,22 +2,22 @@
 <div class="scratch-preview">
 <iframe src="" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-When you add a new sprite it points to the right which is a direction of 90 degrees.
+新しいスプライトを追加すると、90度右へ傾きます。
 
-| Direction | Degrees |
-| --------- | ------- |
-| Up        | 0       |
-| **Right** | **90**  |
-| Down      | 180     |
-| Left      | -90     |
+| 方向    | 角度     |
+| ----- | ------ |
+| 上     | 0      |
+| **右** | **90** |
+| 下     | 180    |
+| 左     | -90    |
 
 
-You can change the direction of a sprite in the Sprite pane. Click on the direction number and move the arrow that appears, or type a number.
+スプライトペインでスプライトの方向を変更できます。 角度の度数をクリックして、表示される矢印を動かすか、数字を入力します。
 
 ![](images/sprite-direction-pane.png)
 
-You can also use the `point in direction`{:class="block3motion"} block:
+`○度に向ける`{:class="block3motion"}ブロックを使うこともできます。
 
 ![](images/point-in-direction.png)
 
-The sprite's direction is used by the `move`{:class="block3motion"} block. Changing the direction of a sprite may also change the rotation of the sprite's costume depending on the sprite's `rotation-style`{:class="block3motion"}.
+スプライトの方向は `動き`{:class="block3motion"} ブロックによって使われます。 スプライトの方向を変更すると、 `回転のスタイル`{:class="block3motion"}に応じて、スプライトのコスチュームの回転も変更される場合があります。
